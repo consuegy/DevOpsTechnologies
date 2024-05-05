@@ -10,3 +10,4 @@ Course which focuses on the technologies and tools by DevOps engineers.
 
 ### Modules
 - Module 1: What is DevOps
+- Module 2: Git & Github
