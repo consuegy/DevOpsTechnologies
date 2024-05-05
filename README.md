@@ -7,3 +7,7 @@ Course which focuses on the technologies and tools by DevOps engineers.
 - Understand microservices and seperation of concerns
 - Write scripts to automate the deployment and configuration of VMs
 - Write scripts to automate the deployment and configuration of Container-Based environments
+
+
+### Feature Requirements
+- This is only a placeholder for the new feature requirements.
